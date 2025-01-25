@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: unclosed tags.  The `bug.html` file contains an unclosed `<p>` tag, which can cause unexpected rendering behavior. The `bugSolution.html` file provides a corrected version with properly closed tags.  Ensure that all opening tags in your HTML have corresponding closing tags to avoid this issue.
